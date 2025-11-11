@@ -76,7 +76,7 @@ PORT=5000
 
 
 👥 Sample Test Users
-Email : password
+Email and  password
 user1@example.com
 	123456
 user2@example.com
