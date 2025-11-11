@@ -51,6 +51,20 @@ npx expo start
 
 
 Scan the QR code with Expo Go to open the app.
+<img width="483" height="671" alt="image" src="https://github.com/user-attachments/assets/95a74fc7-b95f-490a-b1dc-2c92cb43fac7" />
+
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/3fa7cbc6-096b-4e4e-999a-7ae30bd029a2" />
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/5b601c20-15c5-4766-8360-12556c12c0a4" />
+
+
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a52a963-80c0-46a9-8f91-13af5dccda5a" />
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/9c614e9e-1da3-447a-bff9-30f8d24814c1" />
+
+
+
 
 🌍 Environment Variables
 
@@ -62,7 +76,7 @@ PORT=5000
 
 
 👥 Sample Test Users
-Email	Password
+Email : password
 user1@example.com
 	123456
 user2@example.com
